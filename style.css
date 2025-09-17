@@ -1,0 +1,8 @@
+body {
+}
+
+.titre {
+	ruby-span: attr(x);
+	border: 1px;
+	background-color: beige;
+}
